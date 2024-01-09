@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://raw.githubusercontent.com/yuchenwang89/yuchenwang89/output/github-contribution-grid-snake.svg)
+_generated with [Platane/snk](https://github.com/Platane/snk)_
