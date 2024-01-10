@@ -10,7 +10,7 @@ Hi, I'm Yu-Chen Wang.
 Here are some ideas to get you started:
 -->
 
-<h2> 👩🏻 About Me </h2>
+<h2> 👩 About Me </h2>
 <li> 🏫  I am currently a graduate student in <strong>Applied Statistics</strong> at <a href="https://www.fju.edu.tw/" target="_blank"> Fu Jen Catholic University</a> in Taiwan. </li>
 <br>
 <li> 💻  My usual practice involves using <strong>R</strong> (programming language) for statistical analysis tasks and I have previously taken a course on the SAS Programming. </li>
@@ -18,7 +18,14 @@ Here are some ideas to get you started:
 <li> 🌱  I am currently learning HTML, PHP, and CSS. </li>
 <br>
 <li> ⚡  Fun fact: Beyond programming, I find fascination in human languages. I've dipped my toes into learning a bit of Spanish in the past and dream of unraveling another language in the future. ¡Viva la diversidad lingüística! </li>
-
+<br>
+<h2> 🛠 Some Tools I Use And Learn </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r,mysql,py,html,css,php,js&theme=light"/>
+  </a>
+</p>
+<br>
 <h2> 📈 GitHub Activity Graph </h2>
 <p align="center"><img src="https://raw.githubusercontent.com/yuchenwang89/yuchenwang89/output/github-contribution-grid-snake.svg"></p>
 <p align="right">Generated with [<a href=https://github.com/Platane/snk target="_blank">Platane/snk</a>]</p><br/>
