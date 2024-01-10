@@ -31,9 +31,14 @@ Here are some ideas to get you started:
 </p>
 <br>
 <h2> 🔗 Connect With Me </h2>
+<p align="center">
 <a href="https://www.linkedin.com/in/yu-chen-wang-634614287"  target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
+    <img src="https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="mailto:411336199@m365.fju.edu.tw">
+    <img src="https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 <br>
 <br>
 <h2> 📈 GitHub Activity Graph </h2>
