@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📈 GitHub Activity Graph:
-![](https://raw.githubusercontent.com/yuchenwang89/yuchenwang89/output/github-contribution-grid-snake.svg)
-<p>Generated with [<a href=https://github.com/Platane/snk target="_blank">Platane/snk</a>]</p>
-<img align="center" src="https://komarev.com/ghpvc/?username=yuchenwang89&color=blue&style=plastic&label=PROFILE+VIEWS+">
+<h2 align="center">
+  📈 GitHub Activity Graph:
+</h2>
+<p align="center"><img src="https://raw.githubusercontent.com/yuchenwang89/yuchenwang89/output/github-contribution-grid-snake.svg"></p>
+<p align="right">Generated with [<a href=https://github.com/Platane/snk target="_blank">Platane/snk</a>]</p><br/>
+<p align="right"><img align="center" src="https://komarev.com/ghpvc/?username=yuchenwang89&color=blue&style=plastic&label=PROFILE+VIEWS+"></p>
