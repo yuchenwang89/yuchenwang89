@@ -4,7 +4,7 @@ Hi, I'm Yu-Chen Wang.
 </h1>
 
 <p align="center" style="font-size: 50px">👩 Currently pursuing a master's degree in Applied Statistics at <a href="https://www.fju.edu.tw/" target="_blank"> Fu Jen Catholic University</a> in Taiwan.</p>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Nice+to+meet+you!&center=true"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Glad+to+meet+you!&center=true"></p>
 
 <!--
 **yuchenwang89/yuchenwang89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">
-  📈 GitHub Activity Graph:
-</h3>
+
+### 📈 GitHub Activity Graph:
 <p align="center"><img src="https://raw.githubusercontent.com/yuchenwang89/yuchenwang89/output/github-contribution-grid-snake.svg"></p>
 <p align="right">Generated with [<a href=https://github.com/Platane/snk target="_blank">Platane/snk</a>]</p><br/>
 <p align="right"><img align="center" src="https://komarev.com/ghpvc/?username=yuchenwang89&color=blue&style=plastic&label=PROFILE+VIEWS+"></p>
