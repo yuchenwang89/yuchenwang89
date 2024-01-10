@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=yuchenwang89&color=green&style=plastic&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=yuchenwang89&color=green&style=plastic&label=PROFILE+VIEWS+)
 <!--
 **yuchenwang89/yuchenwang89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
