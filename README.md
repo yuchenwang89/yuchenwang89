@@ -4,7 +4,7 @@ Hi, I'm Yu-Chen Wang.
 </h1>
 
 <p align="center">👩 Currently pursuing a master's degree in Applied Statistics at <a href="https://www.fju.edu.tw/" target="_blank" > Fu Jen Catholic University</a> in Taiwan.</p>
-<a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=+Nice+to+meet+you!"></a>
+<a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=+++Nice+to+meet+you!"></a>
 <br/>
 
 <!--
