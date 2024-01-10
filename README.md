@@ -30,13 +30,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 <br>
+<h2> 🔗 Connect With Me </h2>
+<a href="https://www.linkedin.com/in/yu-chen-wang-634614287"  target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
+</a>
+<br>
+<br>
 <h2> 📈 GitHub Activity Graph </h2>
 <p align="center"><img src="https://raw.githubusercontent.com/yuchenwang89/yuchenwang89/output/github-contribution-grid-snake.svg"></p>
 <p align="right">Generated with [<a href=https://github.com/Platane/snk target="_blank">Platane/snk</a>]</p><br/>
 <p align="right"><img align="center" src="https://komarev.com/ghpvc/?username=yuchenwang89&color=blue&style=plastic&label=PROFILE+VIEWS+"></p>
-
-<h2> 🔗 Connect With Me </h2>
-<a href="linkedin.com/in/yu-chen-wang-634614287"  target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
-</a>
-
