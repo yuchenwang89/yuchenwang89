@@ -4,8 +4,8 @@ Hi, I'm Yu-Chen Wang.
 </h1>
 
 <p align="center">👩 Currently pursuing a master's degree in Applied Statistics at <a href="https://www.fju.edu.tw/" target="_blank" > Fu Jen Catholic University</a> in Taiwan.</p>
-<p align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Nice+to+meet+you!"></a>
-<br/></p>
+<a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Nice+to+meet+you!"></a>
+<br/>
 
 <!--
 **yuchenwang89/yuchenwang89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 ## 📈 GitHub Activity Graph:
 ![](https://raw.githubusercontent.com/yuchenwang89/yuchenwang89/output/github-contribution-grid-snake.svg)
 <p>Generated with [<a href=https://github.com/Platane/snk target="_blank">Platane/snk</a>]</p>
+<img align="center" src="https://komarev.com/ghpvc/?username=yuchenwang89&color=blue&style=plastic&label=PROFILE+VIEWS+">
