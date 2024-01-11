@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <br>
 <li> 📚  Learning about <strong>Statistics</strong> and a bit of <strong>Machine Learning</strong>. </li>
 <br>
-<li> 💻  My usual practice involves using <strong>R</strong> (programming language) for statistical analysis tasks and I have previously taken a course on the <strong>SAS Programming</strong>. </li>
+<li> 💻  My usual practice involves using <strong>R</strong> (programming language) for statistical analysis tasks and I have previously taken a course on <strong>SAS Programming</strong>. </li>
 <br>
 <li> 🌱  I am currently learning HTML, PHP, and CSS. </li>
 <br>
