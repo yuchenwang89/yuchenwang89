@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 <h2> 🛠 Some Tools I Use And Learn </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,mysql,py,html,css,php,js&theme=light"/>&nbsp
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png" width="43"/>
+    <img src="https://skillicons.dev/icons?i=r&theme=light"/>&nbsp<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png" width="41"/>&nbsp<img src="https://skillicons.dev/icons?i=mysql,py,html,css,php,js&theme=light"/>
+    
   </a>
 </p>
 <br>
