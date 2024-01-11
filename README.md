@@ -41,6 +41,9 @@ Here are some ideas to get you started:
   </tr>
 </table>
 <br>
+<h2> ✨ Certification </h2>
+<li><a href="https://www.ipas.org.tw/bda">MOEA</a> Certified Big Data Analyst - Associate Level (2022)</li>
+<br>
 <h2> 🛠 Some Tools I Use And Learn </h2>
 <p align="center">
   <a href="https://skillicons.dev">
