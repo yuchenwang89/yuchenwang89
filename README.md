@@ -20,7 +20,26 @@ Here are some ideas to get you started:
 <br>
 <li> 🌱  I am currently learning HTML, PHP, and CSS. </li>
 <br>
-<li> ⚡  Fun fact: Beyond programming, I find fascination in human languages. I've dipped my toes into learning a bit of Spanish in the past and dream of unraveling another language in the future. ¡Viva la diversidad lingüística! </li>
+<li> ⚡  Fun fact: Beyond programming, I find fascination in human languages. I've dipped my toes into learning Spanish in the past and dream of unraveling another language in the future. ¡Viva la diversidad lingüística! </li>
+<br>
+<h2> 🏫 Education </h2>
+<table>
+  <tr>
+    <th>Department</th>
+    <th>University</th>
+    <th>Year of Graduation</th>
+  </tr>
+  <tr>
+    <td>M. S. in <strong>Applied Statistics</strong></td>
+    <td><a href="https://www.fju.edu.tw/">Fu Jen Catholic University</a></td>
+    <td>--</td>
+  </tr>
+  <tr>
+    <td>B. B. A. in <strong>Statistics and Information Science</strong> with a minor in <strong>Public Health</strong></td>
+    <td><a href="https://www.fju.edu.tw/">Fu Jen Catholic University</a></td>
+    <td>2022</td>
+  </tr>
+</table>
 <br>
 <h2> 🛠 Some Tools I Use And Learn </h2>
 <p align="center">
