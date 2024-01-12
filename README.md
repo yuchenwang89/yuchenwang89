@@ -28,12 +28,12 @@ Hi, I'm Yu-Chen Wang.
     <th>Year of Graduation</th>
   </tr>
   <tr>
-    <td>M. S. in <strong>Applied Statistics</strong></td>
+    <td>M.S. in <strong>Applied Statistics</strong></td>
     <td><a href="https://www.fju.edu.tw/">Fu Jen Catholic University</a></td>
     <td>--</td>
   </tr>
   <tr>
-    <td>B. B. A. in <strong>Statistics and Information Science</strong> with a minor in <strong>Public Health</strong></td>
+    <td>B.B.A. in <strong>Statistics and Information Science</strong> with a minor in <strong>Public Health</strong></td>
     <td><a href="https://www.fju.edu.tw/">Fu Jen Catholic University</a></td>
     <td>2022</td>
   </tr>
