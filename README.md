@@ -10,11 +10,11 @@ Hi, I'm Yu-Chen Wang.
 
 <h2> 👩 About Me </h2>
 
-<li> 🏫  I am currently a graduate student in <strong>Applied Statistics</strong> at <a href="https://www.fju.edu.tw/" target="_blank"> Fu Jen Catholic University</a> in Taiwan. </li>
+<li> 🏫  I'm currently a graduate student in <strong>Applied Statistics</strong> at <a href="https://www.fju.edu.tw/" target="_blank"> Fu Jen Catholic University</a> in Taiwan. </li>
 <br>
 <li> 📚  Learning about <strong>Statistics</strong> and a bit of <strong>Machine Learning</strong>. </li>
 <br>
-<li> 💻  My usual practice involves using <strong>R</strong> (programming language) for statistical analysis tasks and I have previously taken a course on <strong>SAS Programming</strong>. </li>
+<li> 💻  My usual practice involves using <strong>R</strong> (programming language) for statistical analysis tasks and I've previously taken a course on <strong>SAS Programming</strong>. </li>
 <br>
 <li> 🌱  I am currently learning HTML, PHP, and CSS. </li>
 <br>
